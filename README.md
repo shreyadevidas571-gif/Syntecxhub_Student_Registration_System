@@ -1,0 +1,2 @@
+# Syntecxhub_Student_Registration_System
+Syntecxhub_Student_Registration_System-Description
